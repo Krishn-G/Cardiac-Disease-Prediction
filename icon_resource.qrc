@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/chest-pain-or-pressure.png</file>
+    <file>images/erythrocytes.png</file>
+    <file>images/electrocardiogram (1).png</file>
+    <file>images/cardiogram (1).png</file>
+    <file>images/st-segment-ecg.png</file>
+    <file>images/bar-chart.png</file>
+    <file>images/arteries.png</file>
+    <file>images/chart.png</file>
+    <file>images/electrocardiogram.png</file>
+    <file>images/age-range.png</file>
+    <file>images/exit (1).png</file>
+    <file>images/exit.png</file>
+    <file>images/exit (2).png</file>
+    <file>images/telescope.png</file>
+    <file>images/csvfile.png</file>
+    <file>images/check.png</file>
+    <file>images/brain-computer-interface.png</file>
+    <file>images/cardiogram.png</file>
+    <file>images/exit2.png</file>
+    <file>images/percentage.png</file>
+    <file>images/to-do-list.png</file>
+    <file>images/glucose-meter (1).png</file>
+    <file>images/cheers.png</file>
+    <file>images/cholesterol.png</file>
+    <file>images/Diastolic blood pressure.png</file>
+    <file>images/exercise.png</file>
+    <file>images/gender.png</file>
+    <file>images/glucose-meter.png</file>
+    <file>images/kg.png</file>
+    <file>images/smoking.png</file>
+    <file>images/Systolic blood pressure.png</file>
+    <file>images/centimeter.png</file>
+  </qresource>
+</RCC>

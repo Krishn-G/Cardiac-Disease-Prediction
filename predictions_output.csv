@@ -1,0 +1,2 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,predictions
+70,1,0,145,174,0,1,125,1,2.6,0,0,3,0
